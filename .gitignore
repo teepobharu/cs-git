@@ -1,0 +1,5 @@
+#Ignore here
+**nestedignore2
+test.cs
+!exceptthisone.cs
+/bin
