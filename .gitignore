@@ -1,6 +1,0 @@
-#Ignore here
-ignorefiles
-**nestedignore2
-test.cs
-!exceptthisone.cs
-/bin
