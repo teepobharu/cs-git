@@ -1,4 +1,6 @@
 namespace myfirstfeature
 {
-
+    class secondClassfeature
+    {
+    }
 }
