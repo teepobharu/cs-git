@@ -1,0 +1,9 @@
+#Ignore here
+/ignorefiles
+!**nestedignore2
+test.cs
+# !exceptthisone.cs
+/\!test.cs
+/bin
+#extra
+#somemore
